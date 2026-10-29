@@ -1,0 +1,57 @@
+name: Update Bing daily photo
+
+on:
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update README with today's Bing photo
+        run: |
+          python3 - <<'PYEOF'
+          import json, re, urllib.request
+          from datetime import datetime, timezone, timedelta
+          api = "https://www.bing.com/hpimagearchive.aspx?format=js&idx=0&n=1&mkt=zh-CN"
+          req = urllib.request.Request(api, headers={"User-Agent": "Mozilla/5.0"})
+          with urllib.request.urlopen(req, timeout=20) as resp:
+              data = json.load(resp)
+          img = data["images"][0]
+          url = "https://www.bing.com" + img["url"]
+          title = img.get("title", "Bing 每日壁纸")
+          copyright_text = img.get("copyright", "")
+          today = (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d")
+          section = (
+              f"[![Bing 每日壁纸]({url})](https://www.bing.com)\n"
+              f"> {today} · {title}（{copyright_text}）\n"
+          )
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+          new_readme, n = re.subn(
+              r"(<!-- BING:START -->).*?(<!-- BING:END -->)",
+              lambda m: m.group(1) + "\n" + section + m.group(2),
+              readme, flags=re.S,
+          )
+          if n == 0:
+              raise SystemExit("BING markers not found in README.md")
+          if new_readme != readme:
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new_readme)
+              print("README updated")
+          else:
+              print("README unchanged")
+          PYEOF
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "更新 Bing 每日一图"
+          git push
