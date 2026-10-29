@@ -38,6 +38,19 @@ currently_hacking:
 - [github-age](https://github.com/meetzcx/github-age) — 查询 GitHub 账号注册时间与年龄的小工具
 - [geek-lab](https://github.com/meetzcx/geek-lab) — 试跑过的小项目记录
 
+## 🔥 热门推荐
+
+> 每天发现的热门项目，每日更新。
+
+<!-- TRENDING:START -->
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — ★203k，视频下载神器
+- [ollama/ollama](https://github.com/ollama/ollama) — ★185k，本地跑大模型
+- [openai/codex](https://github.com/openai/codex) — ★131k，OpenAI 的终端智能体
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — ★127k，开源远程桌面
+- [denoland/deno](https://github.com/denoland/deno) — ★109k，新一代 JS/TS 运行时
+- [oven-sh/bun](https://github.com/oven-sh/bun) — ★96k，极快的 JS 运行时与工具链
+<!-- TRENDING:END -->
+
 ## 🚀 $ cat TODO.md
 
 - 更多项目正在整理中，敬请期待。
