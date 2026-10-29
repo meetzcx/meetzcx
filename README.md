@@ -41,6 +41,13 @@ currently_hacking:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meetzcx/meetzcx/output/github-snake.svg">
 </picture>
 
+## 🖼️ Bing 每日一图
+
+<!-- BING:START -->
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-10-29 · 薄雾邂逅千年时光（立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)）
+<!-- BING:END -->
+
 ## 📦 $ ls ./projects
 
 - [free-vps-notes](https://github.com/meetzcx/free-vps-notes) — 公开的免费 VPS 笔记
