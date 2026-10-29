@@ -31,6 +31,15 @@ currently_hacking:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetzcx&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetzcx&layout=compact&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meetzcx&theme=tokyo-night&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetzcx&theme=tokyonight)
+
+## 🐍 $ ./snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetzcx/meetzcx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetzcx/meetzcx/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meetzcx/meetzcx/output/github-snake.svg">
+</picture>
 
 ## 📦 $ ls ./projects
 
