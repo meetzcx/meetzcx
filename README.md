@@ -9,6 +9,8 @@
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-00C853?style=for-the-badge&logo=server&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=githubactions&logoColor=white)
 
+![Skills](https://skillicons.dev/icons?i=python,nodejs,git,linux,bash&theme=dark)
+
 </div>
 
 ---
@@ -26,7 +28,9 @@ currently_hacking:
 ## 📊 $ ./stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetzcx&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetzcx&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetzcx&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meetzcx&theme=tokyo-night&hide_border=true)
 
 ## 📦 $ ls ./projects
 
@@ -37,3 +41,11 @@ currently_hacking:
 ## 🚀 $ cat TODO.md
 
 - 更多项目正在整理中，敬请期待。
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=meetzcx&color=00FF41&style=flat-square)
+
+</div>
