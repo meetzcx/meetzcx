@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-10 · 惬意放松，尽享海岛时光（玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-11 · 奇妙纷呈的森林（大西洋森林，巴西 (© FG Trade/Getty Images)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
