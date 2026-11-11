@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-11 · 奇妙纷呈的森林（大西洋森林，巴西 (© FG Trade/Getty Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-12 · 没有建筑师的建筑杰作（北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
