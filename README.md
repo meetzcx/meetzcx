@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-14 · 唯有向上发展（中国香港维多利亚港 (© Juan Romero/Cavan Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-15 · 霜染枝叶（覆霜的红叶杜鹃 (© avoferten/Shutterstock)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
