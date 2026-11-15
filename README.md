@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-15 · 霜染枝叶（覆霜的红叶杜鹃 (© avoferten/Shutterstock)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-16 · 历经岁月，屹立不倒（美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
