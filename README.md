@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-18 · 从黄昏狩猎到黎明（一对仓鸮 (© Zahoor Salmi/Getty Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-19 · 思想在此成形（雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
