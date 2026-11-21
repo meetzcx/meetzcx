@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-21 · 陶瓦屋顶下的梦（法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-22 · 海浪间的庇护所（西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
