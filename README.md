@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-25 · 美国西南部的一场雪（日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-26 · 彩虹落下的地方（怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
