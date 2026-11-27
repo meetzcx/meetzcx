@@ -44,8 +44,8 @@ currently_hacking:
 ## 🖼️ Bing 每日一图
 
 <!-- BING:START -->
-[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
-> 2026-11-26 · 彩虹落下的地方（怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)）
+[![Bing 每日壁纸](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](https://www.bing.com)
+> 2026-11-27 · 灰金交织的峡谷（夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)）
 <!-- BING:END -->
 
 ## 📦 $ ls ./projects
